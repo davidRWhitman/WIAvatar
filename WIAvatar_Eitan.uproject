@@ -74,6 +74,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "RLPlugin",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
